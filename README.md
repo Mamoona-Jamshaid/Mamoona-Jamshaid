@@ -3,7 +3,7 @@ About Me:
  I am a Software Engineering student passionate about learning programming and developing software solutions. I enjoy exploring new technologies, improving my coding skills, and working on interesting projects. I am currently building my skills in software development, databases, and problem solving.
 
 Skills & Technologies:
-Category             | Technologies
+Category:            | Technologies:
 Programming Languages| C#, C++, Python
 Database             | SQL
 Tools                | VS Code, Git, GitHub
