@@ -15,6 +15,7 @@ Featured Projects:
    A web based Smart Medicle Store.
 3. Python project:
    A Learning Management System.
+
 Education:
 Software Engineering Student
 University: University of Engineering and Technology
